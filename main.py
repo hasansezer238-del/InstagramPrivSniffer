@@ -10,7 +10,7 @@ from utils.parser import getArguments
 
 args = getArguments()
 
-if args.name:
+if args.name:https://www.instagram.com/_gizoosss?igsh=MTI5Z2tudDNveTdybQ==
     printBanner()
     fetch_data(args.name)
 elif args.dload:
